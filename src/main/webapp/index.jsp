@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1>hello</h1>
-<h3 style="color:green"> codingwale vaijapur devops batch satarted</h3>
+<h3 style="color:green"> Version 2 Release</h3>
 
 
 </body>
